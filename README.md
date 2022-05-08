@@ -5,4 +5,4 @@ In 2022, I began experimenting with deep learning and artificial intelligence sc
 
 This repository collects the best tools I find around.
 
-A lot of the content is added in the form of GitHub submodules. My repository is released under an MIT license, but the submodules may have different licenses.
+A lot of the content is added in the form of GitHub submodules. My repository is released under a MIT license, but the submodules may have different licenses.

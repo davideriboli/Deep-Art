@@ -1,0 +1,3 @@
+[submodule "disco-diffusion.git"]
+	path = disco-diffusion
+	url = https://github.com/alembics/disco-diffusion.git
