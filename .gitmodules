@@ -4,3 +4,6 @@
 [submodule "VQGAN-CLIP.git"]
 	path = VQGAN-CLIP
 	url = https://github.com/justinjohn0306/VQGAN-CLIP.git
+[submodule "dronecaster"]
+	path = dronecaster
+	url = https://github.com/northern-information/dronecaster
