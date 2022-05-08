@@ -1,9 +1,0 @@
-[submodule "disco-diffusion.git"]
-	path = disco-diffusion
-	url = https://github.com/alembics/disco-diffusion.git
-[submodule "VQGAN-CLIP.git"]
-	path = VQGAN-CLIP
-	url = https://github.com/justinjohn0306/VQGAN-CLIP.git
-[submodule "dronecaster"]
-	path = dronecaster
-	url = https://github.com/northern-information/dronecaster
